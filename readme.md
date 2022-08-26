@@ -2,7 +2,7 @@
 
 ### Date Time: 28-Aug-2022 at 9:00 AM IST
 
-Event URL:https://www.meetup.com/dot-net-learners-house-hyderabad/events/286027708/
+Event URL:https://www.meetup.com/dot-net-learners-house-hyderabad/events/286822813/
 
 Youtube URL:https://www.youtube.com/watch?v=LOr8iGd1i8s
 
