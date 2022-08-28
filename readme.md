@@ -1,6 +1,6 @@
 # Introduction to IaC, Terraform, and AWS Lambda
 
-### Date Time: 28-Aug-2022 at 9:00 AM IST
+### Date Time: 28-Aug-2022 at 10:00 AM IST
 
 Event URL:https://www.meetup.com/dot-net-learners-house-hyderabad/events/286822813/
 
